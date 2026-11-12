@@ -1,0 +1,59 @@
+-- Install configuration: ""
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/install
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/install/COLCON_IGNORE
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/install/setup.ps1
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/install/local_setup.sh
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/install/_local_setup_util_ps1.py
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/install/setup.bash
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/install/setup.sh
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/install/_local_setup_util_sh.py
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/install/local_setup.zsh
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/install/local_setup.bash
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/install/setup.zsh
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/install/.colcon_install_layout
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/install/local_setup.ps1
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/build
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/build/COLCON_IGNORE
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/build/.built_by
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/log
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/log/latest
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/log/COLCON_IGNORE
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/log/latest_build
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/log/build_2026-11-12_03-30-13
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/log/build_2026-11-12_03-30-13/logger_all.log
+-- Installing: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/log/build_2026-11-12_03-30-13/events.log
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/urdf/buzz_arm.urdf
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/meshes
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/meshes/Link_LFinger.STL
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/meshes/Link_1.STL
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/meshes/Link_2.STL
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/meshes/Link_RFinger.STL
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/meshes/Link_4.STL
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/meshes/Link_3.STL
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/meshes/base_link.STL
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/meshes/Link_5.STL
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/meshes/Joint_RFinger.STL
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/meshes/Joint_LFinger.STL
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/config
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/config/joint_names.yaml
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/launch
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/launch/display.launch.py
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/rviz
+-- Up-to-date: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/rviz/display.rviz
+-- Execute custom install script
+-- Up-to-date symlink: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/ament_index/resource_index/package_run_dependencies/buzz_arm_description
+-- Up-to-date symlink: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/ament_index/resource_index/parent_prefix_path/buzz_arm_description
+-- Up-to-date symlink: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/environment/path.sh
+-- Up-to-date symlink: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/environment/path.dsv
+-- Up-to-date symlink: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/local_setup.bash
+-- Up-to-date symlink: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/local_setup.sh
+-- Up-to-date symlink: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/local_setup.zsh
+-- Up-to-date symlink: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/local_setup.dsv
+-- Symlinking: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/package.dsv
+-- Up-to-date symlink: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/ament_index/resource_index/packages/buzz_arm_description
+-- Up-to-date symlink: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/cmake/buzz_arm_descriptionConfig.cmake
+-- Up-to-date symlink: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/cmake/buzz_arm_descriptionConfig-version.cmake
+-- Up-to-date symlink: /home/exouser/URDF_2_Moveit_Lecture/install/buzz_arm_description/share/buzz_arm_description/package.xml

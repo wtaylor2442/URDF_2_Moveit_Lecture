@@ -581,6 +581,12 @@
     <axis
       xyz="0 0 0" />
   </joint>
+  <link name="tool0" />
+  <joint name="Link_5_to_tool0" type="fixed">
+    <origin xyz="0 0 0.082" rpy="0 0 0" />
+    <parent link="Link_5" />
+    <child link="tool0" />
+  </joint>
   <link name="floor">
     <visual>
       <origin xyz="0 0 0" rpy="0 0 0" />
